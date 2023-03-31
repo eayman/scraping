@@ -1,3 +1,5 @@
+# This script scraping restaurants data for Bonn city from Tripadvisor website
+
 import requests, csv, re, base64
 from bs4 import BeautifulSoup
 
